@@ -13,7 +13,8 @@ Designed by : http://responsivewebinc.com
  */
 
 body {
-    background: #fff url('../img/crossword.png') repeat;
+    /*background: #222 url('../img/crossword.png') repeat;*/
+    background: #222;
     font-family: 'Open Sans', sans-serif;
     -webkit-font-smoothing: antialiased;
 }
@@ -175,7 +176,7 @@ table {
  */
 
 .header {
-    background: #fff;
+    background: #222;
     border-bottom: 2px solid #eaeaea;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 }
